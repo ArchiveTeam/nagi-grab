@@ -1,0 +1,2 @@
+.nagi.ee	TRUE	/	FALSE	0	SESSID	t8nmih54j2bm3vufd1rda7i8o1
+.nagi.ee	TRUE	/	FALSE	0	SESSID_new	t8nmih54j2bm3vufd1rda7i8o1
