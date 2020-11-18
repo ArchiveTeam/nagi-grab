@@ -52,7 +52,7 @@ if not WGET_AT:
 #
 # Update this each time you make a non-cosmetic change.
 # It will be added to the WARC files and reported to the tracker.
-VERSION = '20201118.01'
+VERSION = '20201118.02'
 USER_AGENT = 'Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:82.0) Gecko/20100101 Firefox/82.0'
 TRACKER_ID = 'nagi'
 TRACKER_HOST = 'trackerproxy.archiveteam.org'
@@ -213,7 +213,7 @@ class WgetArgs(object):
 project = Project(
     title = 'nagi',
     project_html = '''
-    <img class="project-logo" alt="logo" src="https://archiveteam.org/images/5/57/Albumee-logo.gif" height="50px"/>
+    <img class="project-logo" alt="logo" src="https://archiveteam.org/images/7/7f/Nagi-logo.gif" height="50px"/>
     <h2>nagi.ee <span class="links"><a href="http://nagi.ee/">Website</a> &middot; <a href="http://tracker.archiveteam.org/nagi/">Leaderboard</a></span></h2>
     '''
 )
